@@ -344,9 +344,10 @@ section {
 
 article {
   display: flex;
+  align-items: center;
   width: 10rem;
-  justify-content: space-around;
-  gap: 0.5rem;
+  /* justify-content: space-between; */
+  gap: 1rem;
 }
 
 article .icon {
@@ -373,6 +374,12 @@ article .icon {
 .project-title {
   margin: 1rem;
   color: black;
+}
+
+.project-img:hover {
+  cursor: pointer;
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 0.5rem;
 }
 
 .project-btn {
