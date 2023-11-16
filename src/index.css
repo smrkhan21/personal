@@ -494,7 +494,7 @@ footer p {
   }
   #profile {
     height: 83vh;
-    margin-bottom: 0;
+    margin-bottom: -10px;
   }
   article {
     font-size: 1rem;

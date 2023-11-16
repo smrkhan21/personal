@@ -5,6 +5,7 @@ import Project3 from "./../assets/project-3.png";
 import Project4 from "./../assets/project-4.png";
 import Project5 from "./../assets/project-5.png";
 import Project6 from "./../assets/project-6.png";
+import Project7 from "./../assets/project-7.png";
 import arrow from "./../assets/arrow.png";
 
 const Projects = () => {
@@ -44,7 +45,14 @@ const Projects = () => {
       githubLink: "https://github.com/smrkhan21/landingpage",
       demoLink: "https://v1-onepage.netlify.app/",
     },
-    { id: 6, src: Project6, name: "Netflix Clone", githubLink: "#", demoLink: "#" },
+    {
+      id: 6,
+      src: Project6,
+      name: "Recipe App",
+      githubLink: "https://github.com/smrkhan21/recipeapp",
+      demoLink: "https://cooking-ninja-site-67985.web.app/",
+    },
+    { id: 7, src: Project7, name: "Netflix Clone", githubLink: "#", demoLink: "#" }
   ];
   return (
     <section id="projects">
