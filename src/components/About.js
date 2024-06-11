@@ -19,7 +19,7 @@ const About = () => {
               <img src={experience} alt="Experience icon" className="icon" />
               <h3>Experience</h3>
               <p>
-                3+ years <br />
+                4+ years <br />
                 Software Development
               </p>
             </div>
@@ -33,10 +33,8 @@ const About = () => {
             </div>
           </div>
           <div className="text-container">
-            <p>
-              I'm an experienced Software Engineer specializing in web
-              technologies, including React Js, Javascript, Redux, HTML, and
-              CSS. With a strong track record, I design and develop web
+          <p>
+              I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in web technologies such as React, JavaScript, Magento, PHP, MySQL, HTML, CSS, Redux, RestAPIs, GraphQL, Docker & AWS. Proficient in developing ecommerce web applications and adept at adapting quickly to new needs and policies. With a strong track record, I design and develop web
               applications that provide exceptional user experiences.
               Adaptability enables me to swiftly respond to changing
               requirements and policies, ensuring project success. Committed to
